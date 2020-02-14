@@ -25,6 +25,4 @@ var job = schedule.scheduleJob({ hour: 8, minute: 00 }, function(){
  });
 });
 
-console.log(job);
-
 
